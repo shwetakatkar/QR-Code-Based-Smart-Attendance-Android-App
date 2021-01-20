@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_attendance"
+        android:title="Attendance"
+        android:icon="@drawable/attendance_nav_bottom"
+        />
+    <item
+        android:id="@+id/nav_report"
+        android:title="Report"
+        android:icon="@drawable/report_nav_bottom"
+        />
+
+    <item
+        android:id="@+id/nav_smartId"
+        android:title="Smart ID"
+        android:icon="@drawable/smartid_nav_bottom"/>
+
+    <item
+        android:id="@+id/nav_noticeboard"
+        android:title="Notice Board"
+        android:icon="@drawable/noticeboard_nav_bottom"/>
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/profile_nav_bottom"/>
+
+</menu>

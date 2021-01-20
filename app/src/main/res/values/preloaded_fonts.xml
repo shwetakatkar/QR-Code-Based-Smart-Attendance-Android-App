@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/amethysta</item>
+        <item>@font/asul</item>
+        <item>@font/baloo</item>
+        <item>@font/bree_serif</item>
+        <item>@font/delius</item>
+        <item>@font/gabriela</item>
+        <item>@font/lovers_quarrel</item>
+        <item>@font/open_sans_light</item>
+        <item>@font/quando</item>
+        <item>@font/salsa</item>
+        <item>@font/stoke_light</item>
+        <item>@font/yatra_one</item>
+    </array>
+</resources>
