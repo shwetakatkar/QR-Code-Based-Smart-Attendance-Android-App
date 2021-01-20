@@ -1,0 +1,2 @@
+# QR_Code_Based_Smart_Attendance_Android_Application
+Java based android application with backend as a firebase, for educational institutes to take QR code based attendance of students. Admin can create class, add students &amp; teachers data. Digital Student Id Card will be created after successful registration of student which will be scanned by teachers to take attendance and attendance record will be downloaded as excel file or sheet. 
